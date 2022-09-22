@@ -1,0 +1,5 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`gator_actions eatFood Dispatches the correct action and payload 1`] = `Array []`;
+
+exports[`test actions fetch albums with search term 'What Room Was the Holiday In' Dispatches the correct action and payload 1`] = `Array []`;
