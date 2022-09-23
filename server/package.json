@@ -2,7 +2,6 @@
   "name": "base-api-ts",
   "version": "1.0.0",
   "main": "index.js",
-  "license": "MIT",
   "scripts": {
     "build": "tsc --project ./",
     "start:dev": "nodemon src/server.ts",
